@@ -5,9 +5,9 @@ Its provided with a reset and save button .
 the Key feature is you can save the edited image in the form of jpg directly to your storage.
 
 ## Gallery
-|Home Screen|Editing Screen|Features Screen|
+|Home Screen|Editing Screen|
 |-------|-------|-------|
-|<img src="iamge editor/ss -1.png" width="250" height="500" />|<img src="snapshots/signup.png" width="250" height="500" />|<img src="snapshots/home.png" width="250" height="480" />|
+|<img src="iamge editor/ss -1.png" width="500" height="300" />|<img src="/iamge editor/ss -2.png" width="500" height="300" />
 
 
 
