@@ -7,7 +7,7 @@ the Key feature is you can save the edited image in the form of jpg directly to 
 ## Gallery
 |Home Screen|Editing Screen|Features Screen|
 |-------|-------|-------|
-|<img src="snapshots/login.png" width="250" height="500" />|<img src="snapshots/signup.png" width="250" height="500" />|<img src="snapshots/home.png" width="250" height="480" />|
+|<img src="iamge editor/ss -1.png" width="250" height="500" />|<img src="snapshots/signup.png" width="250" height="500" />|<img src="snapshots/home.png" width="250" height="480" />|
 
 
 
