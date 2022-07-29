@@ -6,23 +6,20 @@ the Key feature is you can save the edited image in the form of jpg directly to 
 
 ## Gallery
 |Home Screen|Editing Screen|
-|-------|-------|-------|
-|<img src="iamge editor/ss -1.png" width="500" height="300" />|<img src="/iamge editor/ss -2.png" width="500" height="300" />
+|-------|-------|
+|<img src="iamge editor/ss- 0.png" width="500" height="300" />|<img src="/iamge editor/ss -1.png" width="500" height="300" />
 
 
 
 
-|Top Posts Screen|Account Screen|Add Post Screen|
-|-------|-------|-------|
-|<img src="snapshots/toppost.png" width="250" height="500" />|<img src="snapshots/account.png" width="250" height="500" />|<img src="snapshots/addpost.png" width="250" height="500" />|
+|Features Screen|Edited Screen|
+|-------|-------|
+|<img src="iamge editor/ss-2.png" width="500" height="300" />|<img src="iamge editor/ss-3.png" width="500" height="300" />|
 
 
 ## Build The Code
-1. Clone the repository https://github.com/hiteshshimpi-55/Speak-Up.git
-2. Open Android Studio.
-3. Click on 'Open an existing Android Studio project'.
-4. Browse to the directory where you cloned the project, choose frontend and click OK.
-5. Let Android Studio import the project and you are good to go!
+1. Clone the repository https://github.com/pratham-ez/Snap-and-Quick-Photo-Editor-.git
+
 
 ## Contribution Guidelines
 1. All issues should be raised via GitHub issue tracker and should follow the issue template
@@ -37,10 +34,7 @@ the Key feature is you can save the edited image in the form of jpg directly to 
 4. At the moment we are adding all the new features to the dev branch, and pushing only fully features to our master branch.
 
 ## Documentation
-- Language: Java             link: https://docs.oracle.com/en/java/
-- Database: Firebase         link: https://firebase.google.com/docs/android/
-- TechStack: Android Studio  link: https://developer.android.com/docs
-
+- Languages: Javascript , HTML , CSS          
 ## Maintainer
-- [Hitesh Shimpi](https://github.com/hiteshshimpi-55)
+- [Pratham Khodwe](https://github.com/pratham-ez)
 
